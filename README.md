@@ -1,13 +1,13 @@
 **Backend**
-- Laravel 10
+- Laravel
 - Laravel Fortify for authentication (login, registration & password reset)
 - Laravel Sail for local development
 - Laravel Pint for backend linting
 - MySQL database
 
 **Frontend SPA**
-- Vue 3
-- Vuetify 3
+- Vue 
+- Vuetify 
 - Vue router
 - ESLint for frontend linting
 
