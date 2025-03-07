@@ -1,0 +1,13 @@
+.v-application.bg-login {
+    background-color: #FFFFFF;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body, html {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+a.no-underline {
+    text-decoration: none !important;
+}
