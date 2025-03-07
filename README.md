@@ -32,7 +32,7 @@ Then the project can be initiated:
 ./vendor/bin/sail up -d
 ```
 
-Then, the regular stuff:
+Then, the following commands:
 
 ```bash
 ./vendor/bin/sail artisan key:generate
